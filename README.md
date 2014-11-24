@@ -1,4 +1,4 @@
-# auth-example-spa
+# angular-auth-example
 
 An implementation of auth using angular routes and JSON Web Token
 
