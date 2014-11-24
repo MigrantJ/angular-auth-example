@@ -1,0 +1,10 @@
+<div class="login">
+    <form ng-submit="form.login(form.username, form.password)">
+        <label>Username: <input type="text" ng-model="form.username"/></label><br/>
+        <label>Password: <input type="password" ng-model="form.password"/></label><br/>
+        <button type="submit">Login</button>
+    </form>
+    <form ng-submit="form.logout()">
+        <button type="submit">Logout</button>
+    </form>
+</div>

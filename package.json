@@ -1,0 +1,29 @@
+{
+  "name": "auth-example-spa",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.10.2",
+    "morgan": "~1.5.0",
+    "body-parser": "~1.9.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-browserify": "~3.2.0",
+    "debowerify": "~0.9.1",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-nodemon": "~0.3.0",
+    "gulp": "~3.8.10",
+    "gulp-nodemon": "~1.0.4",
+    "gulp-concat": "~2.4.2",
+    "del": "~0.1.3",
+    "jsonwebtoken": "~1.1.2"
+  }
+}
