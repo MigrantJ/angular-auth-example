@@ -1,4 +1,4 @@
-module.exports = function () {
+module.exports = (function () {
   var user = {
     username: 'testuser',
     password: 'p'
@@ -22,4 +22,4 @@ module.exports = function () {
     jwtSecret: jwtSecret,
     authenticate: authenticate
   };
-};
+})();

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/auth-example-spa.iml" filepath="$PROJECT_DIR$/.idea/auth-example-spa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/angular-auth-example.iml" filepath="$PROJECT_DIR$/.idea/angular-auth-example.iml" />
     </modules>
   </component>
 </project>

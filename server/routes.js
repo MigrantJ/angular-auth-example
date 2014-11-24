@@ -1,5 +1,5 @@
 var jwt = require('jsonwebtoken'),
-    auth = require('./auth')();
+    auth = require('./auth');
 
 module.exports.initialize = function(app) {
   app.post('/login', auth.authenticate, function (req, res) {
